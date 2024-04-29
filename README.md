@@ -1,4 +1,5 @@
-This is a compilation of interfaces and useful tools I have been developing for use with electrical test equipment which communicates via GPIB.
+This is a compilation of interfaces and useful tools I have been developing for use with electrical test equipment which communicates via GPIB.  All work was done in Python 3.
+Communication through GPIB was initiated with the PYVISA library.  All libraries should be bundled into the executable, allowing for execution without installing of dependencies.  If running from the .py dependencies must be installed.
 
 Tools used in evaluating these scripts/programs were:
   - HP 59401A Bus System Analyzer
